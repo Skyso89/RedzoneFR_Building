@@ -1,1 +1,33 @@
-
+<group name="Land_SToNED_Multi_Room_Building" lootmax="4">
+	<usage name="Industrial" />
+	<usage name="Farm" />
+	<usage name="Military" />
+	<container name="lootFloor" lootmax="4">
+		<point pos="0.770557 0.405209 -0.513530" range="1" height="1" /> 
+		<point pos="2.882771 1.897170 0.004387" range="1" height="1" /> 
+		<point pos="-3.635464 3.392929 0.062793" range="1" height="1" /> 
+		<point pos="-2.535266 5.631159 1.588700" range="1" height="1" /> 
+		<point pos="1.253937 3.392929 3.176033" range="1" height="1" /> 
+		<point pos="1.590510 3.392929 6.574287" range="1" height="1" /> 
+		<point pos="1.540280 3.392929 10.230056" range="1" height="1" /> 
+		<point pos="1.662621 3.392929 13.754476" range="1" height="1" /> 
+		<point pos="1.891350 3.392929 -3.265467" range="1" height="1" /> 
+		<point pos="1.878766 3.392929 -6.595582" range="1" height="1" /> 
+		<point pos="1.929688 3.392929 -10.350823" range="1" height="1" /> 
+		<point pos="1.916939 3.392929 -13.724754" range="1" height="1" /> 
+		<point pos="1.092142 0.405209 -14.072391" range="1" height="1" /> 
+		<point pos="0.820475 0.405209 -10.368245" range="1" height="1" /> 
+		<point pos="0.316282 0.405209 -6.546728" range="1" height="1" /> 
+		<point pos="0.099281 0.405209 -3.298892" range="1" height="1" /> 
+		<point pos="0.540261 0.405209 3.218123" range="1" height="1" /> 
+		<point pos="1.474765 0.405209 6.807518" range="1" height="1" /> 
+		<point pos="1.351964 0.405209 10.383932" range="1" height="1" /> 
+		<point pos="-3.448614 3.392929 -11.797885" range="1" height="1" /> 
+		<point pos="-3.451152 3.392929 -5.542344" range="1" height="1" /> 
+		<point pos="-3.359358 3.392929 5.318413" range="1" height="1" /> 
+		<point pos="-3.293104 3.392929 11.559440" range="1" height="1" /> 
+		<point pos="-3.354417 0.405209 10.281096" range="1" height="1" /> 
+		<point pos="-3.336976 0.405209 -0.154931" range="1" height="1" /> 
+		<point pos="-3.368162 0.405209 -10.077024" range="1" height="1" /> 
+	</container>
+</group>
