@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4287112853">
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="6021.64" z="3866.46" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="6805.87" z="4436.97" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5948.12" z="4706.17" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7953.62" z="5139.6" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7116.69" z="5236.04" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7634.32" z="5474.69" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1953.81" z="6547.71" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8126.58" z="6337.68" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8692.77" z="6337.68" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7973" z="8592.9" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4357.12" z="8696.37" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2828.35" z="13460.8" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5138.41" z="15107" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5727.46" z="12506.4" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="9441.21" z="12677.6" r="30"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3106.55" z="7189.64" r="30"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8703.73" z="8601.53" r="30"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="9913.65" z="4527.27" r="30"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="4119.05" z="1913.38" r="30"/>
+    </territory>		
+</territory-type>

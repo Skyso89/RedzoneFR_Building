@@ -1,0 +1,5 @@
+		<file path="env/croco_territories.xml" />
+		
+		<territory type="Herd" name="Crocodile" behavior="DZCrocoGroupBeh">
+			<file usable="croco_territories" />
+		</territory>
